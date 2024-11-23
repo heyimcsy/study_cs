@@ -56,3 +56,31 @@
 4. 응용 계층
 
 ### 프록시와 안정적인 트래픽
+
+## 데이터베이스
+
+### 데이터베이스
+
+1. 데이터베이스와 DBMS
+2. 데이터베이스 vs 파일 시스템
+3. 엔티티와 스키마
+4. 트랜잭션돠 ACID
+
+### RDBMS와 SQL
+
+1. RDBMS 의 기본
+2. SQL
+3. 효율적 쿼리
+4. 데이터베이스 설계
+
+### NoSQL
+
+1. nosql의 특징
+2. 다양한 nosql: MongoDB ,Redis
+
+책에서 다루어 지지 않는 내용
+(직군에 따라 달라질 내용)
+
+1. Dom 과 virtual DOM 의 차이
+2. state 와 props 의 차이
+3. Promise 와 Callback의 차이
