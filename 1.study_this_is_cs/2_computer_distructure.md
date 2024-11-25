@@ -39,7 +39,8 @@
 
 ![메모리](https://csnote.net/assets/img/arch/memory.png)
 
-메모리(주기억 장치)
+#### 메모리(주기억 장치)
+
 필요 전제 -> 메인 메모리 역할을 하는 하드웨어는 RAM.ROM. 일반적으로는 RAM을 지칭하는 경우가 많다.그러므로 메모리가 RAM을 지칭한다고 전제한다.
 
 _RAM: Random Access Memory ROM: Read Only Memory_
